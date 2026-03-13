@@ -1,25 +1,55 @@
-[![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)](https://github.com/supppp0510)
-<h1 align="center">Hi 👋, I'm Yusuf Ramadhan</h1>
-<h3 align="center">Beginner programmer based on Surabaya, Indonesia</h3>
-<img align="right"alt=Coding" width="400" src="https://miro.medium.com/v2/1*PtBtw-ygDjcuzzOeIcU60w.gif"
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Yusuf%20Ramadhan&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supppp0510&label=Profile%20views&color=0e75b6&style=flat" alt="supppp0510" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+Enthusiast;Musician+%26+Composer;Based+in+Surabaya%2C+Indonesia" alt="Typing SVG" />
+</div>
 
-- 💬 Ask me about **Website, Desktop App, Mobile App**
+---
 
-- 📫 How to reach me **yusuframadhan0510@gmail.com**
+### 🌌 Transmitting from Surabaya...
 
-- ⚡ Fun fact **Im a Musician and Composer**
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=supppp0510&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=36BCF7&icon_color=36BCF7" />
 
-<h3 align="left">Connect with me:</h3>
+* 🔭 **Current Mission:** Developing **InFoto** Photobooth & **Doable** App.
+* 🎸 **Sonic Identity:** Exploring Retropop & Synth-pop frequencies.
+* ⚡ **Fun Fact:** I balance logic in code with emotion in music.
+* 📫 **Neural Link:** [yusuframadhan0510@gmail.com](mailto:yusuframadhan0510@gmail.com)
+
+---
+
+### 🛠 Tech Augmentations
+
 <p align="left">
-<a href="https://instagram.com/yusufrmdhmss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufrmdhmss_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@diexcst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="localitit_" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,mysql,firebase,flutter,dart,python,java,figma,ps,electron&perline=8" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supppp0510&show_icons=true&locale=en&layout=compact" alt="supppp0510" /></p>
+### 📊 System Diagnostics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supppp0510&show_icons=true&locale=en" alt="supppp0510" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supppp0510&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=36BCF7&icon_color=36BCF7" alt="Yusuf's GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supppp0510&theme=vision-friendly-dark&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://instagram.com/yusufrmdhmss_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@diexcst">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=supppp0510&label=System%20Views&color=0e75b6&style=flat-square" />
+</p>

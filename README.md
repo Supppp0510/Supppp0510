@@ -67,8 +67,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=supppp0510&repo=InFoto&theme=tokyonight&hide_border=true&title_color=36BCF7" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=supppp0510&repo=Doable&theme=tokyonight&hide_border=true&title_color=36BCF7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=supppp0510&repo=supppp0510&theme=tokyonight&hide_border=true&title_color=36BCF7" />
+  <p><i>Note: Ganti 'repo=supppp0510' di atas dengan nama repo kamu yang lain jika ingin menampilkan proyek spesifik.</i></p>
 </div>
 
 <br/>
